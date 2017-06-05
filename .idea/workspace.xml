@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="674269bd-d93b-47dc-b942-4179e6a935e4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mom.php" afterPath="$PROJECT_DIR$/mom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="mom.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mom.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="35" selection-start="41" selection-end="41" vertical-scroll-proportion="0.04761905" vertical-offset="0" max-vertical-offset="567">
+            <state line="3" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.14285715" vertical-offset="0" max-vertical-offset="567">
               <folding />
             </state>
           </provider>
@@ -186,7 +187,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mom.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="35" selection-start="41" selection-end="41" vertical-scroll-proportion="0.04761905" vertical-offset="0" max-vertical-offset="567">
+        <state line="3" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.14285715" vertical-offset="0" max-vertical-offset="567">
           <folding />
         </state>
       </provider>
